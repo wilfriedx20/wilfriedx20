@@ -63,6 +63,7 @@
 <br><br>
 
 ## 🔗 Connect with Me
+<br>
 <p align="center">
   <a href="www.linkedin.com/in/wilfried-kodjo-tinankpa">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
