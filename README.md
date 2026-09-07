@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://media1.tenor.com/m/fYQgh5q4r10AAAAC/bleach-bleach-tybw.gif" alt="Banner" width="100%" />
+<img src="https://media1.tenor.com/m/FzZuXzWwggUAAAAd/bleach-genryusai.gif" alt="Banner" width="100%" />
 
 <br><br>
 
@@ -71,6 +71,8 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
