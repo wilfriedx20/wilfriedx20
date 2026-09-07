@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM5MjVtYW9lcDBjZmdtazYwaWkwcTgyc29sZGU1ZGdqdWcwOGVpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5C9g5ii5XfEGMnrl6/giphy.gif](https://tenor.com/fr/view/dr-dee-mary-and-the-witchs-flower-anime-typing-coding-gif-17883699)" alt="Banner" width="100%" />
+<img src="https://tenor.com/fr/view/dr-dee-mary-and-the-witchs-flower-anime-typing-coding-gif-17883699" alt="Banner" width="100%" />
 
 <br><br>
 
