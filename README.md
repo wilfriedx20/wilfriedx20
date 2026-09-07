@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://media1.tenor.com/m/FzZuXzWwggUAAAAd/bleach-genryusai.gif" alt="Banner" width="100%" />
+<img src="https://media1.tenor.com/m/fYQgh5q4r10AAAAC/bleach-bleach-tybw.gif" alt="Banner" width="100%" />
 
 <br><br>
 
