@@ -53,6 +53,8 @@
 
 ## 📊 GitHub streak & trophées
 
+<br>
+
 <!-- Streak de contributions (jours consécutifs actifs) - taille réduite pour rester lisible -->
 <p align="center">
   <!-- width en % plutôt qu'en pixels fixes = s'adapte à la largeur de l'écran (mobile inclus) -->
@@ -131,13 +133,13 @@
 
 ## 💬 Citation inspirante
 
+<br>
+
 <!-- theme=dark : fond noir intégré à l'image, cohérent avec le thème sombre de GitHub -->
 <!-- Change de citation à chaque chargement de la page -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citation aléatoire" width="90%" />
 </p>
-
-<br>
 
 <!-- Bande dégradée finale reprenant les couleurs GitHub (vert/bleu du thème contributions) -->
 <div align="center">
