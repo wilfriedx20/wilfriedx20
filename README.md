@@ -52,8 +52,7 @@
 <!-- Streak de contributions (jours consécutifs actifs) - taille réduite pour rester lisible -->
 <p align="center">
   <!-- width en % plutôt qu'en pixels fixes = s'adapte à la largeur de l'écran (mobile inclus) -->
-  <img src="https://streak-stats.demolab.com/?user=wilfriedx20&theme=default&hide_border=true" width="90%"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=wilfriedx20&theme=dark&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B00&sideLabels=8B949E&stroke=30363D" width="90%"/></p>
 
 <br>
 
@@ -110,6 +109,8 @@
 <br>
 
 ## 📫 Me contacter
+
+<br>
 
 <!-- Icônes cliquables vers LinkedIn et email -->
 <p align="center">
