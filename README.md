@@ -1,5 +1,5 @@
 <!-- Titre principal du profil -->
-<h1 align="center">Wilfried Kodjo Tinankpa</h1>
+<h1 align="center">Hi, I'm Wilfried Kodjo Tinankpa</h1>
 
 <br>
 
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 ## 👋 À propos de moi
 
@@ -100,14 +100,14 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
 </p>
 
-<br><br>
+<br>
 
 <!-- Snake qui "mange" les cases de ton graphique de contributions - nécessite une GitHub Action active -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/wilfriedx20/wilfriedx20/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<br><br>
+<br>
 
 ## 📫 Me contacter
 
@@ -122,7 +122,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 ## 💬 Citation inspirante
 
