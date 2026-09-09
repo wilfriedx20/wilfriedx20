@@ -83,7 +83,7 @@
 <h3 align="center">IA / Machine Learning</h3>
 <!-- Icônes légèrement plus petites (40px) et espacement réduit pour bien se répartir sur 2 lignes en mobile -->
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" />
