@@ -67,6 +67,9 @@
 
 <!-- Groupe 1 : langages de programmation généraux -->
 <!-- &nbsp; répétés = espacement horizontal entre chaque icône -->
+
+<br>
+
 <h3 align="center">Langages de programmation</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
@@ -79,6 +82,9 @@
 <!-- Groupe 2 : bibliothèques spécifiques à l'IA et au Machine Learning -->
 <h3 align="center">IA / Machine Learning</h3>
 <!-- Icônes légèrement plus petites (40px) et espacement réduit pour bien se répartir sur 2 lignes en mobile -->
+
+<br>
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" />
   &nbsp;&nbsp;&nbsp;
@@ -94,6 +100,9 @@
 <br>
 
 <!-- Groupe 3 : outils de versioning -->
+
+<br>
+
 <h3 align="center">Autres</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
