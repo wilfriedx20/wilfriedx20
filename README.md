@@ -32,6 +32,8 @@
 
 ## 👋 À propos de moi
 
+<br>
+
 <!-- Section à personnaliser avec quelques lignes sur toi -->
 - 🎓 Étudiant en 1ère année Intelligence Artificielle & Big Data à l'École Nationale Polytechnique
 - 🌍 Basé au Togo
@@ -40,6 +42,8 @@
 <br>
 
 ## 🔭 En ce moment
+
+<br>
 
 <!-- Section à mettre à jour manuellement selon ce que tu apprends -->
 - 📊 Apprentissage : SQL
@@ -68,7 +72,7 @@
 <!-- Groupe 1 : langages de programmation généraux -->
 <!-- &nbsp; répétés = espacement horizontal entre chaque icône -->
 
-<br><br>
+<br>
 
 <h3 align="center">Langages de programmation</h3>
 <p align="center">
@@ -80,9 +84,6 @@
 <!-- Groupe 2 : bibliothèques spécifiques à l'IA et au Machine Learning -->
 <h3 align="center">IA / Machine Learning</h3>
 <!-- Icônes légèrement plus petites (40px) et espacement réduit pour bien se répartir sur 2 lignes en mobile -->
-
-<br><br>
-
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" />
   &nbsp;&nbsp;&nbsp;
@@ -95,11 +96,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" />
 </p>
 
-<br>
-
 <!-- Groupe 3 : outils de versioning -->
-
-<br>
 
 <h3 align="center">Autres</h3>
 <p align="center">
