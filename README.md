@@ -68,7 +68,7 @@
 <!-- Groupe 1 : langages de programmation généraux -->
 <!-- &nbsp; répétés = espacement horizontal entre chaque icône -->
 
-<br>
+<br><br>
 
 <h3 align="center">Langages de programmation</h3>
 <p align="center">
@@ -76,8 +76,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
 </p>
-
-<br>
 
 <!-- Groupe 2 : bibliothèques spécifiques à l'IA et au Machine Learning -->
 <h3 align="center">IA / Machine Learning</h3>
