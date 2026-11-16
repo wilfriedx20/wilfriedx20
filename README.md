@@ -3,10 +3,10 @@
 
 <br>
 
-<!-- Bannière animée : GIF illustré (Wakfu), thème fantaisie -->
+<!-- Bannière animée : GIF illustré (Wakfu), thème fantaisie 
 <p align="center">
   <img src="https://media1.tenor.com/m/K23o3gg4e0MAAAAC/wakfu.gif" width="100%" alt="Wakfu animation" />
-</p>
+</p> -->
 
 <br>
 
