@@ -35,7 +35,7 @@
 <br>
 
 <!-- Section à personnaliser avec quelques lignes sur toi -->
-- 🎓 Étudiant en 1ère année Intelligence Artificielle & Big Data à l'École Nationale Polytechnique
+- 🎓 Étudiant en 2eme année Intelligence Artificielle & Big Data à l'École Nationale Polytechnique - Campus de Lomé
 - 🌍 Basé au Togo
 - 💡 Curieux de tout ce qui touche à la donnée et à l'IA
 
